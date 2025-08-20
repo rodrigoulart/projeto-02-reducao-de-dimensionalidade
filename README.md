@@ -68,7 +68,7 @@ A conversão gera duas imagens a partir da original:
 **Imagem Binarizada(pgm):** 
 ![Saída Binária](saida_binaria.pgm)
 
-Como a saída em formato.pgm é de difícil visualização gráfica, é possível converter as imagens png através do programa **conversor_saida.py**.
+Como a saída em formato de extensão pgm é de difícil visualização gráfica, é possível converter as imagens para a extensão png através do programa **conversor_saida.py**.
 É possível visualizar tanto a imagem original quantos as imagens convertidas:
 
 ### Imagem de Entrada Original
