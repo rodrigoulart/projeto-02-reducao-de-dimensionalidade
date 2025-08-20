@@ -38,7 +38,7 @@ A leitura é feita com **Pillow (PIL)**, e todo o processamento é implementado 
 ## **📂 Estrutura do Projeto**  
 
 ```text
-proj2-imagens/
+projeto-02-reducao-de-dimensionalidade/
 ├── LICENCE                     # Arquivo de licença MIT
 ├── README.md                   # Este arquivo
 ├── projeto_conversao_imagem.py # Script principal
