@@ -1,8 +1,6 @@
 # 🎨 Projeto 02 — Conversão de Imagens para Tons de Cinza e Preto & Branco  
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)  
-[![Tkinter](https://img.shields.io/badge/Tkinter-Interface-lightgrey?logo=python)](https://docs.python.org/3/library/tkinter.html)  
-[![PIL](https://img.shields.io/badge/Pillow-Leitura%20de%20imagens-green?logo=python)](https://pillow.readthedocs.io/en/stable/)  
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)  [![Tkinter](https://img.shields.io/badge/Tkinter-Interface-lightgrey?logo=python)](https://docs.python.org/3/library/tkinter.html)  [![PIL](https://img.shields.io/badge/Pillow-Leitura%20de%20imagens-green?logo=python)](https://pillow.readthedocs.io/en/stable/)  
 
 > Segundo projeto do **Bootcamp Machine Learning** da [DIO](https://www.dio.me/) em parceria com a **BairesDev**.  
 > Aplicação prática de **processamento digital de imagens** em Python, realizando conversão de imagens coloridas para **escala de cinza (0–255)** e **binarização (preto e branco, 0 ou 255)**.  
