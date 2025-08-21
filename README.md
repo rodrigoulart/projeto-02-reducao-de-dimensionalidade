@@ -117,7 +117,8 @@ Manipulação de Arquivos PGM e PNG: leitura e escrita em formatos simples de im
 
 ## 🏆 Créditos
 
-Desenvolvido por Rodrigo Goulart de Moraes, como parte dos Desafios de Projetos do Bootcamp de Machine Learning da DIO em parceria com a BairesDev.
+Desenvolvido por Rodrigo Goulart de Moraes, como parte dos Desafios de Projetos do Bootcamp de Machine Learning da DIO em parceria com a BairesDev. 
+
 📎 Repositório: github.com/rodrigoulart/projeto-02-conversao-imagens
 
 
